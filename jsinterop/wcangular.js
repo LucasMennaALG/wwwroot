@@ -4,7 +4,7 @@ interopJS.angular = {
     dotNet: null,
 
     init: _ => {
-        var chart = document.querySelector('componente-angular-widget');
+        var angular = document.querySelector('componente-angular-widget');
         //chart.addEventListener("selected", function (eventData) {
         //    console.log('### wc-pie-chart event fired!');
         //    console.log(eventData);
